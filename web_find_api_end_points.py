@@ -17,7 +17,7 @@ from aiohttp import ClientSession
 #   --output {url}-tested.csv
 
 # output.csv
-#   base_url;word_tested;url;status_code;response
+#   base_url;word_tested;url;status_code;response_json;response_content
 
 
 def main():
